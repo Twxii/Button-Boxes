@@ -1,2 +1,2 @@
-12 Button Gamepad in CiruitPython.
+## 12 Button Gamepad in CiruitPython.
 Comments will be updated later.
